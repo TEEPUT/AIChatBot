@@ -5,7 +5,7 @@ import sys, io
 
 sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
 
-openai.api_key = "API Key"
+openai.api_key = "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"
 
 model = "gpt-3.5-turbo"
 ai_band = "OpenAI"

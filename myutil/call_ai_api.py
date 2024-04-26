@@ -11,7 +11,7 @@ from mylib import mylib_Write_DB
 sys.stdout = io.TextIOWrapper(sys.stdout.detach(), encoding='utf-8')
 ai_band = "myai"
 ai_model = "Style_HC"
-AI_URL = "http://192.168.50.35:9999/api/get_data"
+AI_URL = "http://192.168.20.14:9999/api/get_data"
 SECRET_KEY = "AAAAAAAAAAAABBBCCC111"
 
 #------------------------------------------------------

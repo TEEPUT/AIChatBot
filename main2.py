@@ -144,4 +144,4 @@ def api_page():
 
 if __name__ == '__main__':
     #_myip = socket.gethostbyname(socket.gethostname())
-    app.run(host='192.168.50.35', port=9999, debug=False)
+    app.run(host='192.168.20.14', port=9999, debug=False)
