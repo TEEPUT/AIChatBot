@@ -1,0 +1,2457 @@
+[
+    {
+        "prompt": "계란형",
+        "completion": "리젠트펌",
+        "tokens": 2
+    },
+    {
+        "prompt": "계란형",
+        "completion": "댄디컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "계란형 곱슬머리",
+        "completion": "보헤미안컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형 직모",
+        "completion": "슬릭백",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형 반곱슬",
+        "completion": "웨이브펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형",
+        "completion": "밥컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "원형",
+        "completion": "프린세스컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "원형 곱슬머리",
+        "completion": "로맨틱컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형 직모",
+        "completion": "밥컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형 반곱슬",
+        "completion": "타이트웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형",
+        "completion": "쉐도우펌",
+        "tokens": 2
+    },
+    {
+        "prompt": "긴얼굴형",
+        "completion": "볼륨형",
+        "tokens": 2
+    },
+    {
+        "prompt": "긴얼굴형 곱슬머리",
+        "completion": "볼륨웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형 직모",
+        "completion": "레이어드컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형 반곱슬",
+        "completion": "미디움웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형",
+        "completion": "픽시컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "사각형",
+        "completion": "쇼트레이어드",
+        "tokens": 2
+    },
+    {
+        "prompt": "사각형 곱슬머리",
+        "completion": "루즈웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형 직모",
+        "completion": "댄디컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형 반곱슬",
+        "completion": "보헤미안컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형",
+        "completion": "클래식컬",
+        "tokens": 2
+    },
+    {
+        "prompt": "하트형",
+        "completion": "밥컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "하트형 곱슬머리",
+        "completion": "루즈웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형 직모",
+        "completion": "댄디컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형 반곱슬",
+        "completion": "로맨틱컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형",
+        "completion": "롱레이어드",
+        "tokens": 2
+    },
+    {
+        "prompt": "계란형 직모",
+        "completion": "코니컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형 곱슬머리",
+        "completion": "애쉬웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형 반곱슬",
+        "completion": "빈티지컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형",
+        "completion": "미디움레이어드",
+        "tokens": 2
+    },
+    {
+        "prompt": "원형 직모",
+        "completion": "스퀘어컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형 곱슬머리",
+        "completion": "트로피컬컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형 반곱슬",
+        "completion": "캐주얼웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형",
+        "completion": "픽시컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "긴얼굴형 직모",
+        "completion": "투블럭컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형 곱슬머리",
+        "completion": "딥웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형 반곱슬",
+        "completion": "아웃컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형",
+        "completion": "스퀘어레이어드",
+        "tokens": 2
+    },
+    {
+        "prompt": "사각형 직모",
+        "completion": "슬릭백",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형 곱슬머리",
+        "completion": "비치웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형 반곱슬",
+        "completion": "러프웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형",
+        "completion": "롱스트레이트",
+        "tokens": 2
+    },
+    {
+        "prompt": "하트형 직모",
+        "completion": "워터펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형 곱슬머리",
+        "completion": "펌프업웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형 반곱슬",
+        "completion": "캐주얼컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형남성",
+        "completion": "댄디컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "계란형남성",
+        "completion": "슬릭백",
+        "tokens": 2
+    },
+    {
+        "prompt": "계란형여성",
+        "completion": "롱레이어드",
+        "tokens": 2
+    },
+    {
+        "prompt": "계란형여성",
+        "completion": "밥컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "긴얼굴형남성",
+        "completion": "픽시컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "긴얼굴형남성",
+        "completion": "투블럭컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "긴얼굴형여성",
+        "completion": "롱웨이브",
+        "tokens": 2
+    },
+    {
+        "prompt": "긴얼굴형여성",
+        "completion": "프린세스컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "긴얼굴형 직모남성",
+        "completion": "투블럭컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형 직모여성",
+        "completion": "롱스트레이트",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발",
+        "completion": "리프펌",
+        "tokens": 2
+    },
+    {
+        "prompt": "장발",
+        "completion": "루즈웨이브",
+        "tokens": 2
+    },
+    {
+        "prompt": "단발",
+        "completion": "밥컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "단발",
+        "completion": "픽시컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "긴얼굴형 장발",
+        "completion": "리프펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형 단발",
+        "completion": "웨이브밥컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형 곱슬머리여성",
+        "completion": "루즈웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형 곱슬머리남성",
+        "completion": "캐주얼웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "직모남성",
+        "completion": "댄디컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "직모여성",
+        "completion": "롱스트레이트",
+        "tokens": 2
+    },
+    {
+        "prompt": "계란형남성",
+        "completion": "워터펌",
+        "tokens": 2
+    },
+    {
+        "prompt": "계란형남성 직모",
+        "completion": "애프로컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형여성",
+        "completion": "터스틴레이어드",
+        "tokens": 2
+    },
+    {
+        "prompt": "계란형여성 직모",
+        "completion": "스페이스반",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형남성",
+        "completion": "크루컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "사각형남성 장발",
+        "completion": "스페이스본드",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형여성",
+        "completion": "티어드레이어드",
+        "tokens": 2
+    },
+    {
+        "prompt": "사각형여성 직모",
+        "completion": "미디움스트레이트",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형남성",
+        "completion": "스킨페이드",
+        "tokens": 2
+    },
+    {
+        "prompt": "하트형남성 단발",
+        "completion": "버즈컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형여성",
+        "completion": "롱바운스웨이브",
+        "tokens": 2
+    },
+    {
+        "prompt": "하트형여성 장발",
+        "completion": "클래식펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형남성",
+        "completion": "아이비리그컷",
+        "tokens": 2
+    },
+    {
+        "prompt": "원형남성 직모",
+        "completion": "펌프업스트레이트",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형여성",
+        "completion": "미디움펌프업컬",
+        "tokens": 2
+    },
+    {
+        "prompt": "원형여성 직모",
+        "completion": "펌프업스트레이트",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형남성 단발",
+        "completion": "모하이크",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형여성 장발",
+        "completion": "스페이스웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "직모남성 단발",
+        "completion": "페이드컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "곱슬머리여성 장발",
+        "completion": "딥컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형남성 곱슬머리",
+        "completion": "텍스쳐펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형여성 반곱슬",
+        "completion": "러프컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형남성 단발",
+        "completion": "코마오버",
+        "tokens": 3
+    },
+    {
+        "prompt": "계란형여성 장발",
+        "completion": "스페이스레이어드",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형남성 곱슬머리",
+        "completion": "프렌치크롭",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형여성 직모 단발",
+        "completion": "페더레이어드",
+        "tokens": 4
+    },
+    {
+        "prompt": "사각형남성 반곱슬",
+        "completion": "윈드웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "사각형여성 장발",
+        "completion": "드림컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형남성 직모",
+        "completion": "스퀘어댄디",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형여성 곱슬머리",
+        "completion": "펌프업컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형남성 단발",
+        "completion": "브러시업",
+        "tokens": 3
+    },
+    {
+        "prompt": "하트형여성 장발",
+        "completion": "러프웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형남성 곱슬머리",
+        "completion": "서퍼컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형여성 직모 단발",
+        "completion": "보브컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "원형남성 장발",
+        "completion": "웨이브폼",
+        "tokens": 3
+    },
+    {
+        "prompt": "원형여성 반곱슬",
+        "completion": "로맨틱컬",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형남성 반곱슬",
+        "completion": "슬릭웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형여성 직모 단발",
+        "completion": "카렌컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "긴얼굴형남성 곱슬머리",
+        "completion": "브러시다운",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴얼굴형여성 장발",
+        "completion": "터스틴웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "직모여성 단발",
+        "completion": "픽시레이어드",
+        "tokens": 3
+    },
+    {
+        "prompt": "반곱슬남성 장발",
+        "completion": "트렌디웨이브",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 남성",
+        "completion": "맨번",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 남성",
+        "completion": "헤비레이어드",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 남성",
+        "completion": "서퍼스타일",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 남성",
+        "completion": "포니테일",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 남성",
+        "completion": "브레이드",
+        "tokens": 3
+    },
+    {
+        "prompt": "단발 여성",
+        "completion": "픽시컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "단발 여성",
+        "completion": "보브컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "단발 여성",
+        "completion": "웨이브밥컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "단발 여성",
+        "completion": "프렌치컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "단발 여성",
+        "completion": "터스틴밥컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "단발 여성",
+        "completion": "버즈컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "단발 여성",
+        "completion": "모던보브",
+        "tokens": 3
+    },
+    {
+        "prompt": "긴 웨이브 머리 여성",
+        "completion": "미디움컬",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 웨이브 머리 여성",
+        "completion": "로맨틱컬",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 웨이브 머리 여성",
+        "completion": "러프웨이브",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 웨이브 머리 여성",
+        "completion": "비치웨이브",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 웨이브 머리 여성",
+        "completion": "볼륨웨이브",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 웨이브 머리 남성",
+        "completion": "로프웨이브",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 웨이브 머리 남성",
+        "completion": "서퍼스타일",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 웨이브 머리 남성",
+        "completion": "러프스타일",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 웨이브 머리 남성",
+        "completion": "슬릭웨이브",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 웨이브 머리 남성",
+        "completion": "텍스쳐웨이브",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 여성",
+        "completion": "레이어드컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 여성",
+        "completion": "스트레이트컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 여성",
+        "completion": "U컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 여성",
+        "completion": "V컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 여성",
+        "completion": "프린세스컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 남성",
+        "completion": "레이어드로프컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 남성",
+        "completion": "볼륨업컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 남성",
+        "completion": "스트레이트볼륨컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 남성",
+        "completion": "텍스쳐볼륨컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "긴 헤어 컷 남성",
+        "completion": "캐주얼웨이브컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "두상이 큰 얼굴 여성",
+        "completion": "숏컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "두상이 큰 얼굴 여성",
+        "completion": "프리다컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "두상이 큰 얼굴 여성",
+        "completion": "허밍컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "두상이 큰 얼굴 남성",
+        "completion": "스왓컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "두상이 큰 얼굴 남성",
+        "completion": "크루컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "역삼각형 여성",
+        "completion": "바가지머리",
+        "tokens": 3
+    },
+    {
+        "prompt": "역삼각형 여성",
+        "completion": "보니컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "역삼각형 남성",
+        "completion": "댄디컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "역삼각형 남성",
+        "completion": "리젠트컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "각진 얼굴형사각턱 여성",
+        "completion": "원랭스컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "각진 얼굴형사각턱 여성",
+        "completion": "러플펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "각진 얼굴형사각턱 남성",
+        "completion": "리젠트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "각진 얼굴형사각턱 남성",
+        "completion": "베이비펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "삭발 여성",
+        "completion": "스킨헤드",
+        "tokens": 3
+    },
+    {
+        "prompt": "삭발 여성",
+        "completion": "반삭",
+        "tokens": 3
+    },
+    {
+        "prompt": "삭발 남성",
+        "completion": "스크래치",
+        "tokens": 3
+    },
+    {
+        "prompt": "삭발 남성",
+        "completion": "모히칸 스타일",
+        "tokens": 4
+    },
+    {
+        "prompt": "짧은머리 여성",
+        "completion": "리프컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "짧은머리 여성",
+        "completion": "버드컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "짧은머리 남성",
+        "completion": "사이드컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "짧은머리 남성",
+        "completion": "상고머리",
+        "tokens": 3
+    },
+    {
+        "prompt": "중발 여성",
+        "completion": "바그펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "중발 여성",
+        "completion": "빌드펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "중발 남성",
+        "completion": "리젠트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "중발 남성",
+        "completion": "볼륨펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 여성",
+        "completion": "구름펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 여성",
+        "completion": "그레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 남성",
+        "completion": "리프펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 남성",
+        "completion": "히피펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "두상이 큰 얼굴 여성",
+        "completion": "다이앤펌",
+        "tokens": 5
+    },
+    {
+        "prompt": "두상이 큰 얼굴 여성",
+        "completion": "코튼펌",
+        "tokens": 5
+    },
+    {
+        "prompt": "두상이 큰 얼굴 남성",
+        "completion": "가르마펌",
+        "tokens": 5
+    },
+    {
+        "prompt": "두상이 큰 얼굴 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 5
+    },
+    {
+        "prompt": "역삼각형 여성",
+        "completion": "홀펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "역삼각형 여성",
+        "completion": "레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "역삼각형 남성",
+        "completion": "스시컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "역삼각형 남성",
+        "completion": "하이 앤 타이트",
+        "tokens": 5
+    },
+    {
+        "prompt": "각진 얼굴형사각턱 여성",
+        "completion": "발롱펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "각진 얼굴형사각턱 여성",
+        "completion": "보니펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "각진 얼굴형사각턱 남성",
+        "completion": "포마드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "각진 얼굴형사각턱 남성",
+        "completion": "웨트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "삭발 여성",
+        "completion": "스크래치",
+        "tokens": 3
+    },
+    {
+        "prompt": "삭발 여성",
+        "completion": "반삭",
+        "tokens": 3
+    },
+    {
+        "prompt": "삭발 남성",
+        "completion": "스킨헤드",
+        "tokens": 3
+    },
+    {
+        "prompt": "삭발 남성",
+        "completion": "투블럭",
+        "tokens": 3
+    },
+    {
+        "prompt": "짧은머리 여성",
+        "completion": "코튼펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "짧은머리 여성",
+        "completion": "다이앤펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "짧은머리 남성",
+        "completion": "크롭컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "짧은머리 남성",
+        "completion": "투블럭",
+        "tokens": 3
+    },
+    {
+        "prompt": "중발 여성",
+        "completion": "윈드펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "중발 여성",
+        "completion": "타미펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "중발 남성",
+        "completion": "애즈펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "중발 남성",
+        "completion": "시스루펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 여성",
+        "completion": "레아펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 여성",
+        "completion": "미스티펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 남성",
+        "completion": "그런지펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "장발 남성",
+        "completion": "울프컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "묶음 머리 여성",
+        "completion": "페미닌펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 여성",
+        "completion": "그레이스펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 남성",
+        "completion": "포마드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "전통머리 여성",
+        "completion": "타미펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "전통머리 여성",
+        "completion": "빌드펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "전통머리 남성",
+        "completion": "리젠트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "전통머리 남성",
+        "completion": "댄디펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 여성",
+        "completion": "에어펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 여성",
+        "completion": "구름펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 남성",
+        "completion": "베이비펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 남성",
+        "completion": "리프펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "올림 머리 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "올림 머리 여성",
+        "completion": "미스티펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "올림 머리 남성",
+        "completion": "그런지펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "올림 머리 남성",
+        "completion": "볼륨펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 여성",
+        "completion": "리프펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 여성",
+        "completion": "홀펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 남성",
+        "completion": "포마드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "앞머리 여성",
+        "completion": "빌드펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "앞머리 여성",
+        "completion": "레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "앞머리 남성",
+        "completion": "댄디펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "앞머리 남성",
+        "completion": "리젠트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "대머리 여성",
+        "completion": "스크래치",
+        "tokens": 3
+    },
+    {
+        "prompt": "대머리 여성",
+        "completion": "반삭",
+        "tokens": 3
+    },
+    {
+        "prompt": "대머리 남성",
+        "completion": "스킨헤드",
+        "tokens": 3
+    },
+    {
+        "prompt": "묶음 머리 여성",
+        "completion": "러플펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 여성",
+        "completion": "그레이스펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 남성",
+        "completion": "포마드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 남성",
+        "completion": "리젠트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "전통머리 여성",
+        "completion": "리프펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "전통머리 여성",
+        "completion": "벌룬펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "전통머리 남성",
+        "completion": "리프컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "전통머리 남성",
+        "completion": "더 브래트컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "펌 여성",
+        "completion": "히피펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 여성",
+        "completion": "미스티펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 남성",
+        "completion": "리젠트컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 남성",
+        "completion": "샌드컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "올림 머리 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "올림 머리 여성",
+        "completion": "에어펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "올림 머리 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "올림 머리 남성",
+        "completion": "쉐도우펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 여성",
+        "completion": "프릴펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 남성",
+        "completion": "볼륨펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 남성",
+        "completion": "웨트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "앞머리 여성",
+        "completion": "엘리자벳펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "앞머리 여성",
+        "completion": "레아펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "앞머리 남성",
+        "completion": "크루컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "앞머리 남성",
+        "completion": "더벅머리",
+        "tokens": 3
+    },
+    {
+        "prompt": "반묶음 머리 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "반묶음 머리 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "반묶음 머리 남성",
+        "completion": "볼륨펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "반묶음 머리 남성",
+        "completion": "웨트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "웨이브 머리 여성",
+        "completion": "미스티펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "웨이브 머리 여성",
+        "completion": "에어펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "웨이브 머리 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "웨이브 머리 남성",
+        "completion": "리젠트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "컬리헤어 여성",
+        "completion": "프릴펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "컬리헤어 여성",
+        "completion": "엘리자벳펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "컬리헤어 남성",
+        "completion": "크루컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "컬리헤어 남성",
+        "completion": "쉐도우펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "스트레이트 헤어 여성",
+        "completion": "레아펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "스트레이트 헤어 여성",
+        "completion": "그런지펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "스트레이트 헤어 남성",
+        "completion": "댄디컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "스트레이트 헤어 남성",
+        "completion": "리프컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "볼륨업 머리 여성",
+        "completion": "레이스펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "볼륨업 머리 여성",
+        "completion": "히피펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "볼륨업 머리 남성",
+        "completion": "가르마펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "볼륨업 머리 남성",
+        "completion": "애즈펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "사이드 파트 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "사이드 파트 여성",
+        "completion": "러플펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "사이드 파트 남성",
+        "completion": "포마드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "사이드 파트 남성",
+        "completion": "다운펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "삼각턱 여성",
+        "completion": "허밍컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "삼각턱 여성",
+        "completion": "태슬컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "삼각턱 남성",
+        "completion": "댄디컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "삼각턱 남성",
+        "completion": "리젠트컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "얇은 머리 여성",
+        "completion": "버드컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "얇은 머리 여성",
+        "completion": "다이앤펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "얇은 머리 남성",
+        "completion": "스왓컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "얇은 머리 남성",
+        "completion": "크루컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "두툼한 머리 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "두툼한 머리 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "두툼한 머리 남성",
+        "completion": "볼륨펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "두툼한 머리 남성",
+        "completion": "애즈펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "포니테일 여성",
+        "completion": "윈드펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "포니테일 여성",
+        "completion": "레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "포니테일 남성",
+        "completion": "리프펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "포니테일 남성",
+        "completion": "가르마펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "반올림머리 여성",
+        "completion": "그레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "반올림머리 여성",
+        "completion": "미스티펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "반올림머리 남성",
+        "completion": "리젠트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "반올림머리 남성",
+        "completion": "다운펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "빗질 스타일 여성",
+        "completion": "프릴펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "빗질 스타일 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "빗질 스타일 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "빗질 스타일 남성",
+        "completion": "볼륨펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 여성",
+        "completion": "그런지펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 여성",
+        "completion": "젤리펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 남성",
+        "completion": "포마드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "묶음 머리 남성",
+        "completion": "시스루펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "전통머리 여성",
+        "completion": "엘리자벳펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "전통머리 여성",
+        "completion": "그레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "전통머리 남성",
+        "completion": "웨트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "전통머리 남성",
+        "completion": "에어펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 여성",
+        "completion": "레아펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 여성",
+        "completion": "레인펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "펌 남성",
+        "completion": "애즈펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "올림 머리 여성",
+        "completion": "히피펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "올림 머리 여성",
+        "completion": "프릴펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "올림 머리 남성",
+        "completion": "리프펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "올림 머리 남성",
+        "completion": "그런지펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 남성",
+        "completion": "쉐도우펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "땋은 머리 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "앞머리 여성",
+        "completion": "젤리펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "앞머리 여성",
+        "completion": "페미닌펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "앞머리 남성",
+        "completion": "리젠트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "앞머리 남성",
+        "completion": "베이비펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "스포티 머리 여성",
+        "completion": "에어펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "스포티 머리 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "스포티 머리 남성",
+        "completion": "포마드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "스포티 머리 남성",
+        "completion": "웨트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "시크한 머리 여성",
+        "completion": "코튼펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "시크한 머리 여성",
+        "completion": "그레이스펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "시크한 머리 남성",
+        "completion": "시스루펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "시크한 머리 남성",
+        "completion": "리젠트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "사무실 스타일 여성",
+        "completion": "레이스펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "사무실 스타일 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "사무실 스타일 남성",
+        "completion": "다운펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "사무실 스타일 남성",
+        "completion": "베이비펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "캐주얼 스타일 여성",
+        "completion": "허밍컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "캐주얼 스타일 여성",
+        "completion": "프릴펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "캐주얼 스타일 남성",
+        "completion": "투블럭",
+        "tokens": 4
+    },
+    {
+        "prompt": "캐주얼 스타일 남성",
+        "completion": "스시컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "댄스용 스타일 여성",
+        "completion": "젤리펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "댄스용 스타일 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "댄스용 스타일 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "댄스용 스타일 남성",
+        "completion": "리프펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "여름에 적합한 머리 여성",
+        "completion": "프릴펌",
+        "tokens": 5
+    },
+    {
+        "prompt": "여름에 적합한 머리 여성",
+        "completion": "에어펌",
+        "tokens": 5
+    },
+    {
+        "prompt": "여름에 적합한 머리 남성",
+        "completion": "스시컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "여름에 적합한 머리 남성",
+        "completion": "하이 앤 타이트",
+        "tokens": 7
+    },
+    {
+        "prompt": "겨울에 적합한 머리 여성",
+        "completion": "레이스펌",
+        "tokens": 5
+    },
+    {
+        "prompt": "겨울에 적합한 머리 여성",
+        "completion": "그레이스펌",
+        "tokens": 5
+    },
+    {
+        "prompt": "겨울에 적합한 머리 남성",
+        "completion": "댄디컷",
+        "tokens": 5
+    },
+    {
+        "prompt": "겨울에 적합한 머리 남성",
+        "completion": "리젠트펌",
+        "tokens": 5
+    },
+    {
+        "prompt": "비즈니스 룩 여성",
+        "completion": "버드컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "비즈니스 룩 여성",
+        "completion": "레아펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "비즈니스 룩 남성",
+        "completion": "리젠트컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "비즈니스 룩 남성",
+        "completion": "포마드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "데이트용 스타일 여성",
+        "completion": "레인펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "데이트용 스타일 여성",
+        "completion": "페미닌펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "데이트용 스타일 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "데이트용 스타일 남성",
+        "completion": "다운펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "페스티벌용 스타일 여성",
+        "completion": "젤리펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "페스티벌용 스타일 여성",
+        "completion": "히피펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "페스티벌용 스타일 남성",
+        "completion": "모히칸 스타일",
+        "tokens": 5
+    },
+    {
+        "prompt": "페스티벌용 스타일 남성",
+        "completion": "사이드컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "액티브 라이프스타일 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "액티브 라이프스타일 여성",
+        "completion": "레이스펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "액티브 라이프스타일 남성",
+        "completion": "크루컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "액티브 라이프스타일 남성",
+        "completion": "스왓컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "정장 스타일 여성",
+        "completion": "버드컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "정장 스타일 여성",
+        "completion": "원랭스컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "정장 스타일 남성",
+        "completion": "댄디컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "정장 스타일 남성",
+        "completion": "리젠트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴가용 스타일 여성",
+        "completion": "젤리펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴가용 스타일 여성",
+        "completion": "히피펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴가용 스타일 남성",
+        "completion": "하이 앤 타이트",
+        "tokens": 6
+    },
+    {
+        "prompt": "휴가용 스타일 남성",
+        "completion": "스시컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "프로포즈 스타일 여성",
+        "completion": "레이스펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "프로포즈 스타일 여성",
+        "completion": "미스티펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "프로포즈 스타일 남성",
+        "completion": "리젠트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "프로포즈 스타일 남성",
+        "completion": "댄디펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "데일리 스타일 여성",
+        "completion": "바가지머리",
+        "tokens": 4
+    },
+    {
+        "prompt": "데일리 스타일 여성",
+        "completion": "샤기컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "데일리 스타일 남성",
+        "completion": "가르마펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "데일리 스타일 남성",
+        "completion": "쉼표머리",
+        "tokens": 4
+    },
+    {
+        "prompt": "봄 시즌 여성",
+        "completion": "프릴펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "봄 시즌 여성",
+        "completion": "버드컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "봄 시즌 남성",
+        "completion": "스왓컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "봄 시즌 남성",
+        "completion": "리젠트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "여름 시즌 여성",
+        "completion": "그런지펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "여름 시즌 여성",
+        "completion": "원랭스컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "여름 시즌 남성",
+        "completion": "쉼표머리",
+        "tokens": 4
+    },
+    {
+        "prompt": "여름 시즌 남성",
+        "completion": "댄디컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "가을 시즌 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "가을 시즌 여성",
+        "completion": "레이스펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "가을 시즌 남성",
+        "completion": "크루컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "가을 시즌 남성",
+        "completion": "스왓컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "겨울 시즌 여성",
+        "completion": "보니펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "겨울 시즌 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "겨울 시즌 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "겨울 시즌 남성",
+        "completion": "스시컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "파티룩 여성",
+        "completion": "히피펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "파티룩 여성",
+        "completion": "에어펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "파티룩 남성",
+        "completion": "스크래치",
+        "tokens": 3
+    },
+    {
+        "prompt": "파티룩 남성",
+        "completion": "리젠트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "휴식 시간 여성",
+        "completion": "허쉬컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴식 시간 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴식 시간 남성",
+        "completion": "가르마펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴식 시간 남성",
+        "completion": "스시컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "운동 시간 여성",
+        "completion": "바가지머리",
+        "tokens": 4
+    },
+    {
+        "prompt": "운동 시간 여성",
+        "completion": "레이스펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "운동 시간 남성",
+        "completion": "투블럭",
+        "tokens": 4
+    },
+    {
+        "prompt": "운동 시간 남성",
+        "completion": "스왓컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "출근룩 여성",
+        "completion": "레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "출근룩 여성",
+        "completion": "프릴펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "출근룩 남성",
+        "completion": "다운펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "출근룩 남성",
+        "completion": "리젠트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "데이트룩 여성",
+        "completion": "그레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "데이트룩 여성",
+        "completion": "페미닌펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "데이트룩 남성",
+        "completion": "애즈펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "데이트룩 남성",
+        "completion": "스왓컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "비즈니스룩 여성",
+        "completion": "레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "비즈니스룩 여성",
+        "completion": "보니펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "비즈니스룩 남성",
+        "completion": "포마드펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "비즈니스룩 남성",
+        "completion": "리젠트컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "친구와의 만남 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "친구와의 만남 여성",
+        "completion": "프릴펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "친구와의 만남 남성",
+        "completion": "다운펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "친구와의 만남 남성",
+        "completion": "댄디펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴가 여성",
+        "completion": "그런지펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "휴가 여성",
+        "completion": "페미닌펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "휴가 남성",
+        "completion": "스크래치",
+        "tokens": 3
+    },
+    {
+        "prompt": "휴가 남성",
+        "completion": "모히칸 스타일",
+        "tokens": 4
+    },
+    {
+        "prompt": "바다 여행 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "바다 여행 여성",
+        "completion": "에어펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "바다 여행 남성",
+        "completion": "스왓컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "바다 여행 남성",
+        "completion": "쉼표머리",
+        "tokens": 4
+    },
+    {
+        "prompt": "산 여행 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "산 여행 여성",
+        "completion": "보니펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "산 여행 남성",
+        "completion": "리젠트펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "산 여행 남성",
+        "completion": "크루컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "파티룩 여성",
+        "completion": "미스티펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "파티룩 여성",
+        "completion": "에어펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "파티룩 남성",
+        "completion": "볼륨펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "파티룩 남성",
+        "completion": "투블럭",
+        "tokens": 3
+    },
+    {
+        "prompt": "운동룩 여성",
+        "completion": "벌룬펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "운동룩 여성",
+        "completion": "타미펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "운동룩 남성",
+        "completion": "크루컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "운동룩 남성",
+        "completion": "하이 앤 타이트",
+        "tokens": 5
+    },
+    {
+        "prompt": "가을룩 여성",
+        "completion": "미스티펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "가을룩 여성",
+        "completion": "리프펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "가을룩 남성",
+        "completion": "다운펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "가을룩 남성",
+        "completion": "가르마펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "겨울룩 여성",
+        "completion": "그레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "겨울룩 여성",
+        "completion": "레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "겨울룩 남성",
+        "completion": "리젠트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "겨울룩 남성",
+        "completion": "스왓컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "봄날의 나들이 여성",
+        "completion": "프릴펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "봄날의 나들이 여성",
+        "completion": "바그펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "봄날의 나들이 남성",
+        "completion": "댄디펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "봄날의 나들이 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "여름 바캉스 여성",
+        "completion": "에어펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "여름 바캉스 여성",
+        "completion": "그런지펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "여름 바캉스 남성",
+        "completion": "리프펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "여름 바캉스 남성",
+        "completion": "사이드컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "웨딩룩 여성",
+        "completion": "페미닌펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "웨딩룩 여성",
+        "completion": "레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "웨딩룩 남성",
+        "completion": "포마드펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "웨딩룩 남성",
+        "completion": "리젠트컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "오피스룩 여성",
+        "completion": "보니펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "오피스룩 여성",
+        "completion": "바가지머리",
+        "tokens": 3
+    },
+    {
+        "prompt": "오피스룩 남성",
+        "completion": "리젠트컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "오피스룩 남성",
+        "completion": "댄디펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "데이트룩 여성",
+        "completion": "레아펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "데이트룩 여성",
+        "completion": "타미펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "데이트룩 남성",
+        "completion": "가르마펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "데이트룩 남성",
+        "completion": "웨트펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "대학생룩 여성",
+        "completion": "원랭스컷태슬컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "대학생룩 여성",
+        "completion": "바그펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "대학생룩 남성",
+        "completion": "스시컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "대학생룩 남성",
+        "completion": "볼륨펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "휴일의 캐주얼룩 여성",
+        "completion": "빌드펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴일의 캐주얼룩 여성",
+        "completion": "히피펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴일의 캐주얼룩 남성",
+        "completion": "스왓컷",
+        "tokens": 4
+    },
+    {
+        "prompt": "휴일의 캐주얼룩 남성",
+        "completion": "쉐도우펌",
+        "tokens": 4
+    },
+    {
+        "prompt": "패션쇼룩 여성",
+        "completion": "그레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "패션쇼룩 여성",
+        "completion": "에어펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "패션쇼룩 남성",
+        "completion": "리프펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "패션쇼룩 남성",
+        "completion": "댄디컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "바다여행 여성",
+        "completion": "젤리펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "바다여행 여성",
+        "completion": "에어펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "바다여행 남성",
+        "completion": "사이드컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "바다여행 남성",
+        "completion": "스핀스왈로펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "산책 여성",
+        "completion": "빌드펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "산책 여성",
+        "completion": "레이스펌",
+        "tokens": 3
+    },
+    {
+        "prompt": "산책 남성",
+        "completion": "크루컷",
+        "tokens": 3
+    },
+    {
+        "prompt": "산책 남성",
+        "completion": "가르마펌",
+        "tokens": 3
+    }
+]

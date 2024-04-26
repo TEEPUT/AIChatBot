@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>챗봇 비서</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='/static/js/mydisplay.js'></script>
+    <link rel="stylesheet" href="/static/css/mycommon.css">
+    <script>
+        var a = return_screen_size();
+        document.write(a);
+    </script>
+</head>
+<body>
+    <div><img src="/static/title.png" width="50%" height="50%"></div>
+    <div>엑셀 파일 읽기</div>
+    <form action="/get_data" id="input-form" method="post">
+        <input type="text" name="input_data" placeholder="hello...">
+        <button type="submit">확인</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_92682af8ef780db9a799541c9fdfd13c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_92682af8ef780db9a799541c9fdfd13c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_92682af8ef780db9a799541c9fdfd13c = L.map(
+                "map_92682af8ef780db9a799541c9fdfd13c",
+                {
+                    center: [37.560284, 126.975334],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_60b0e4b520d9a7f3d6f73ace2aa53a19 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+                tile_layer_60b0e4b520d9a7f3d6f73ace2aa53a19.addTo(map_92682af8ef780db9a799541c9fdfd13c);
+    
+            var marker_4159a66003cbab1f20732ebc6cc29a49 = L.marker(
+                [37.38238828907887, 126.6494982172881],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_b3b483c15ffaca3994c1f135d78e1f09 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_4159a66003cbab1f20732ebc6cc29a49.setIcon(icon_b3b483c15ffaca3994c1f135d78e1f09);
+        
+    
+        var popup_bd7425aa4f459bacc2b167425eec0440 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7bf419df7cc98094109a14089f01c3f3 = $(`<div id="html_7bf419df7cc98094109a14089f01c3f3" style="width: 100.0%; height: 100.0%;">미주홀공원</div>`)[0];
+                popup_bd7425aa4f459bacc2b167425eec0440.setContent(html_7bf419df7cc98094109a14089f01c3f3);
+            
+        
+
+        marker_4159a66003cbab1f20732ebc6cc29a49.bindPopup(popup_bd7425aa4f459bacc2b167425eec0440)
+        ;
+
+        
+    
+    
+            var marker_5fdd4eae1095d05dd917411b335fc108 = L.marker(
+                [37.37865982875336, 126.64943686386331],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_587e775f8a91f502c5eeb6fa7d8d5803 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_5fdd4eae1095d05dd917411b335fc108.setIcon(icon_587e775f8a91f502c5eeb6fa7d8d5803);
+        
+    
+        var popup_5d7e27ee62417abe090393d0805ed4f6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_26e791bc47f5ff9a608886ab031414b5 = $(`<div id="html_26e791bc47f5ff9a608886ab031414b5" style="width: 100.0%; height: 100.0%;">송도웰카운티2단지</div>`)[0];
+                popup_5d7e27ee62417abe090393d0805ed4f6.setContent(html_26e791bc47f5ff9a608886ab031414b5);
+            
+        
+
+        marker_5fdd4eae1095d05dd917411b335fc108.bindPopup(popup_5d7e27ee62417abe090393d0805ed4f6)
+        ;
+
+        
+    
+    
+            var marker_aa575c6f20ab750dd25ac3f09499fc8e = L.marker(
+                [37.371363432887264, 126.65776441596502],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_9709185c96a93febc02e185d4f492df5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_aa575c6f20ab750dd25ac3f09499fc8e.setIcon(icon_9709185c96a93febc02e185d4f492df5);
+        
+    
+        var popup_423f7c30c9c2bdc5d2d270f79de962c2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a9978fe2a9d9913ea74bbc465e164c1c = $(`<div id="html_a9978fe2a9d9913ea74bbc465e164c1c" style="width: 100.0%; height: 100.0%;">송도국제도시베르디움</div>`)[0];
+                popup_423f7c30c9c2bdc5d2d270f79de962c2.setContent(html_a9978fe2a9d9913ea74bbc465e164c1c);
+            
+        
+
+        marker_aa575c6f20ab750dd25ac3f09499fc8e.bindPopup(popup_423f7c30c9c2bdc5d2d270f79de962c2)
+        ;
+
+        
+    
+    
+            var marker_e7a933892a1e68c33ccf441a15dd3f16 = L.marker(
+                [37.38845304074064, 126.65483615323085],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_bb42bb80c4a4d290e618f9fdff84660b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_e7a933892a1e68c33ccf441a15dd3f16.setIcon(icon_bb42bb80c4a4d290e618f9fdff84660b);
+        
+    
+        var popup_ebce86b1085acdf1a9a5af77e8b6713d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b5560d80494ac3d8f2dc22addfff8ba9 = $(`<div id="html_b5560d80494ac3d8f2dc22addfff8ba9" style="width: 100.0%; height: 100.0%;">해돋이공원</div>`)[0];
+                popup_ebce86b1085acdf1a9a5af77e8b6713d.setContent(html_b5560d80494ac3d8f2dc22addfff8ba9);
+            
+        
+
+        marker_e7a933892a1e68c33ccf441a15dd3f16.bindPopup(popup_ebce86b1085acdf1a9a5af77e8b6713d)
+        ;
+
+        
+    
+    
+            var marker_ca2446ccb33701b882e1934c7cb7fa1d = L.marker(
+                [37.37435194919133, 126.65316529465493],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_db349c66fbcd935aecc56e6d8526944a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_ca2446ccb33701b882e1934c7cb7fa1d.setIcon(icon_db349c66fbcd935aecc56e6d8526944a);
+        
+    
+        var popup_af931527a439d358ae132e3e06dcd824 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_528130cf2e85e9200e3553baa65676e5 = $(`<div id="html_528130cf2e85e9200e3553baa65676e5" style="width: 100.0%; height: 100.0%;">송도더샵센트럴시티</div>`)[0];
+                popup_af931527a439d358ae132e3e06dcd824.setContent(html_528130cf2e85e9200e3553baa65676e5);
+            
+        
+
+        marker_ca2446ccb33701b882e1934c7cb7fa1d.bindPopup(popup_af931527a439d358ae132e3e06dcd824)
+        ;
+
+        
+    
+    
+            var marker_1fc6c89399f7ea4f6658928675ad8aca = L.marker(
+                [37.369804467916886, 126.66455460859808],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_cff33d4e8a145294ad8559e76faa3885 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_1fc6c89399f7ea4f6658928675ad8aca.setIcon(icon_cff33d4e8a145294ad8559e76faa3885);
+        
+    
+        var popup_97f7dc7feba1f2beaae90304636cd436 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7bb02b64ef0b1daa7adf97374d475786 = $(`<div id="html_7bb02b64ef0b1daa7adf97374d475786" style="width: 100.0%; height: 100.0%;">인천재능대학교</div>`)[0];
+                popup_97f7dc7feba1f2beaae90304636cd436.setContent(html_7bb02b64ef0b1daa7adf97374d475786);
+            
+        
+
+        marker_1fc6c89399f7ea4f6658928675ad8aca.bindPopup(popup_97f7dc7feba1f2beaae90304636cd436)
+        ;
+
+        
+    
+    
+            var marker_50677aeb623f8c590a69ebe51cd44c95 = L.marker(
+                [37.390531143757926, 126.66097787976884],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_9fe23e0188f5cdd9df97e2d5f4ccff92 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_50677aeb623f8c590a69ebe51cd44c95.setIcon(icon_9fe23e0188f5cdd9df97e2d5f4ccff92);
+        
+    
+        var popup_d370c2a4124f10b1f75670049fa86e69 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2182f02154b4aff549bc5f3d475e1509 = $(`<div id="html_2182f02154b4aff549bc5f3d475e1509" style="width: 100.0%; height: 100.0%;">송도성지리벨루스</div>`)[0];
+                popup_d370c2a4124f10b1f75670049fa86e69.setContent(html_2182f02154b4aff549bc5f3d475e1509);
+            
+        
+
+        marker_50677aeb623f8c590a69ebe51cd44c95.bindPopup(popup_d370c2a4124f10b1f75670049fa86e69)
+        ;
+
+        
+    
+    
+            var marker_027b0c94692a7349598a62298c72d6b3 = L.marker(
+                [37.37517395986927, 126.66827528893462],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_6f897136ea87e745d071d189e7be463d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_027b0c94692a7349598a62298c72d6b3.setIcon(icon_6f897136ea87e745d071d189e7be463d);
+        
+    
+        var popup_4fff65109a4ad057e8612bc55c57a358 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cf4365a42fc8d72face85fb264d7ef91 = $(`<div id="html_cf4365a42fc8d72face85fb264d7ef91" style="width: 100.0%; height: 100.0%;">인천글로벌캠퍼스</div>`)[0];
+                popup_4fff65109a4ad057e8612bc55c57a358.setContent(html_cf4365a42fc8d72face85fb264d7ef91);
+            
+        
+
+        marker_027b0c94692a7349598a62298c72d6b3.bindPopup(popup_4fff65109a4ad057e8612bc55c57a358)
+        ;
+
+        
+    
+    
+            var marker_0e35c3b94cd85cea5b4fad2cdc3bcc8b = L.marker(
+                [37.38816295984406, 126.66807713869748],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_5375329c7320c7015c4677ddc23d498c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_0e35c3b94cd85cea5b4fad2cdc3bcc8b.setIcon(icon_5375329c7320c7015c4677ddc23d498c);
+        
+    
+        var popup_7ec7b8489f746dfcef52dbbbd47274d6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_521ae63ee50d9cb429396671d270d829 = $(`<div id="html_521ae63ee50d9cb429396671d270d829" style="width: 100.0%; height: 100.0%;">해찬솔공원</div>`)[0];
+                popup_7ec7b8489f746dfcef52dbbbd47274d6.setContent(html_521ae63ee50d9cb429396671d270d829);
+            
+        
+
+        marker_0e35c3b94cd85cea5b4fad2cdc3bcc8b.bindPopup(popup_7ec7b8489f746dfcef52dbbbd47274d6)
+        ;
+
+        
+    
+    
+            var marker_528e1e5ab6d0aa7da740784b9d592efe = L.marker(
+                [37.36158043186471, 126.64587565013296],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_092c035eeaac8639e4d2b3573fefbedc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_528e1e5ab6d0aa7da740784b9d592efe.setIcon(icon_092c035eeaac8639e4d2b3573fefbedc);
+        
+    
+        var popup_e05341d334a654b26a07a7d235170ff6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_de80a15ab011cb0da066a76245760688 = $(`<div id="html_de80a15ab011cb0da066a76245760688" style="width: 100.0%; height: 100.0%;">인천송도국제캠핑장</div>`)[0];
+                popup_e05341d334a654b26a07a7d235170ff6.setContent(html_de80a15ab011cb0da066a76245760688);
+            
+        
+
+        marker_528e1e5ab6d0aa7da740784b9d592efe.bindPopup(popup_e05341d334a654b26a07a7d235170ff6)
+        ;
+
+        
+    
+    
+            var marker_3a4248df6ecdfa040e06f360eba64949 = L.marker(
+                [37.37253777873744, 126.62790016356476],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_85902acadf002f4a235df204725b000e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_3a4248df6ecdfa040e06f360eba64949.setIcon(icon_85902acadf002f4a235df204725b000e);
+        
+    
+        var popup_7ba522e35014a4b04534b5171456c3dd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_32a01e700e744d5e90f4c18edeb9d2a2 = $(`<div id="html_32a01e700e744d5e90f4c18edeb9d2a2" style="width: 100.0%; height: 100.0%;">솔찬공원</div>`)[0];
+                popup_7ba522e35014a4b04534b5171456c3dd.setContent(html_32a01e700e744d5e90f4c18edeb9d2a2);
+            
+        
+
+        marker_3a4248df6ecdfa040e06f360eba64949.bindPopup(popup_7ba522e35014a4b04534b5171456c3dd)
+        ;
+
+        
+    
+    
+            var marker_30d2b6a8752644dffecc32893128fb26 = L.marker(
+                [37.39460364380136, 126.62381465343672],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_a94a6b63dd1e38e0583c19095b979060 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_30d2b6a8752644dffecc32893128fb26.setIcon(icon_a94a6b63dd1e38e0583c19095b979060);
+        
+    
+        var popup_0e0da252aed9b0cb88acdbb500b1d45b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a212543b3016d1e773fa6b1cd6c011da = $(`<div id="html_a212543b3016d1e773fa6b1cd6c011da" style="width: 100.0%; height: 100.0%;">랜드마크씨티3</div>`)[0];
+                popup_0e0da252aed9b0cb88acdbb500b1d45b.setContent(html_a212543b3016d1e773fa6b1cd6c011da);
+            
+        
+
+        marker_30d2b6a8752644dffecc32893128fb26.bindPopup(popup_0e0da252aed9b0cb88acdbb500b1d45b)
+        ;
+
+        
+    
+    
+            var marker_a41d5e37585c487c3060b74d6020b004 = L.marker(
+                [37.38079707002865, 126.61759252847985],
+                {}
+            ).addTo(map_92682af8ef780db9a799541c9fdfd13c);
+        
+    
+            var icon_37c371e28d0decdd9cccfc0ba53a7939 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "star", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_a41d5e37585c487c3060b74d6020b004.setIcon(icon_37c371e28d0decdd9cccfc0ba53a7939);
+        
+    
+        var popup_5b7d8cf0154a4fb81930e053907b391e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_655aaf7e13774683b13915f30602e676 = $(`<div id="html_655aaf7e13774683b13915f30602e676" style="width: 100.0%; height: 100.0%;">잭니클라우스</div>`)[0];
+                popup_5b7d8cf0154a4fb81930e053907b391e.setContent(html_655aaf7e13774683b13915f30602e676);
+            
+        
+
+        marker_a41d5e37585c487c3060b74d6020b004.bindPopup(popup_5b7d8cf0154a4fb81930e053907b391e)
+        ;
+
+        
+    
+</script>
+</html>

@@ -1,0 +1,51 @@
+/*=============================*/
+/* 기본 CSS 설정 */
+/*=============================*/
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffc000;
+    font-size: 18px;
+    }
+
+.bot-message {
+    align-self: flex-end;
+    font-weight: bold; /* 글자를 bold로 처리 */
+    background-color: #a2ff99; /* 배경색 */
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    max-width: 70%;
+    word-wrap: break-word;
+    }
+
+.user-message {
+    align-self: flex-start;
+    font-weight: bold;
+    background-color: #ffff99;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    max-width: 70%;
+    word-wrap: break-word;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    box-sizing: border-box;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 255, 0, 0.1);
+    position: absolute;
+}
+.chatbox {
+    display: flex;
+    flex-direction: column;
+    max-height: 700px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+   

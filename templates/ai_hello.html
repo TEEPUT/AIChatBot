@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>챗봇 비서</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src='/js/mydisplay.js'></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="/css/mycommon.css">
+    <script>
+        var a = return_screen_size();
+        document.write(a);
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <div><img src="/title.png" width="50%" height="50%"></div>
+        <div class="chatbox" id="chatbox">
+            <div class="bot-message">안녕하세요~</div>
+        </div>
+        <form id="input-form" method="post">
+            <button id="start-btn" type="button"><span class="blind">음성</span></button>
+            <input type="text" name="input_data" id="input_data" placeholder="hello...">
+            <button type="submit">전송</button>
+        </form>
+    </div>
+    <script src='/js/myaichatbox.js'></script>
+    <script src='/js/myvoice.js'></script>
+</body>
+
+</html>

@@ -1,0 +1,1966 @@
+[
+    {
+        "question": "계란형",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "계란형",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "계란형 곱슬머리",
+        "answer": "보헤미안컬"
+    },
+    {
+        "question": "계란형 직모",
+        "answer": "슬릭백"
+    },
+    {
+        "question": "계란형 반곱슬",
+        "answer": "웨이브펌"
+    },
+    {
+        "question": "원형",
+        "answer": "밥컷"
+    },
+    {
+        "question": "원형",
+        "answer": "프린세스컷"
+    },
+    {
+        "question": "원형 곱슬머리",
+        "answer": "로맨틱컬"
+    },
+    {
+        "question": "원형 직모",
+        "answer": "밥컷"
+    },
+    {
+        "question": "원형 반곱슬",
+        "answer": "타이트웨이브"
+    },
+    {
+        "question": "긴얼굴형",
+        "answer": "쉐도우펌"
+    },
+    {
+        "question": "긴얼굴형",
+        "answer": "볼륨형"
+    },
+    {
+        "question": "긴얼굴형 곱슬머리",
+        "answer": "볼륨웨이브"
+    },
+    {
+        "question": "긴얼굴형 직모",
+        "answer": "레이어드컷"
+    },
+    {
+        "question": "긴얼굴형 반곱슬",
+        "answer": "미디움웨이브"
+    },
+    {
+        "question": "사각형",
+        "answer": "픽시컷"
+    },
+    {
+        "question": "사각형",
+        "answer": "쇼트레이어드"
+    },
+    {
+        "question": "사각형 곱슬머리",
+        "answer": "루즈웨이브"
+    },
+    {
+        "question": "사각형 직모",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "사각형 반곱슬",
+        "answer": "보헤미안컬"
+    },
+    {
+        "question": "하트형",
+        "answer": "클래식컬"
+    },
+    {
+        "question": "하트형",
+        "answer": "밥컷"
+    },
+    {
+        "question": "하트형 곱슬머리",
+        "answer": "루즈웨이브"
+    },
+    {
+        "question": "하트형 직모",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "하트형 반곱슬",
+        "answer": "로맨틱컬"
+    },
+    {
+        "question": "계란형",
+        "answer": "롱레이어드"
+    },
+    {
+        "question": "계란형 직모",
+        "answer": "코니컷"
+    },
+    {
+        "question": "계란형 곱슬머리",
+        "answer": "애쉬웨이브"
+    },
+    {
+        "question": "계란형 반곱슬",
+        "answer": "빈티지컬"
+    },
+    {
+        "question": "원형",
+        "answer": "미디움레이어드"
+    },
+    {
+        "question": "원형 직모",
+        "answer": "스퀘어컷"
+    },
+    {
+        "question": "원형 곱슬머리",
+        "answer": "트로피컬컬"
+    },
+    {
+        "question": "원형 반곱슬",
+        "answer": "캐주얼웨이브"
+    },
+    {
+        "question": "긴얼굴형",
+        "answer": "픽시컷"
+    },
+    {
+        "question": "긴얼굴형 직모",
+        "answer": "투블럭컷"
+    },
+    {
+        "question": "긴얼굴형 곱슬머리",
+        "answer": "딥웨이브"
+    },
+    {
+        "question": "긴얼굴형 반곱슬",
+        "answer": "아웃컬"
+    },
+    {
+        "question": "사각형",
+        "answer": "스퀘어레이어드"
+    },
+    {
+        "question": "사각형 직모",
+        "answer": "슬릭백"
+    },
+    {
+        "question": "사각형 곱슬머리",
+        "answer": "비치웨이브"
+    },
+    {
+        "question": "사각형 반곱슬",
+        "answer": "러프웨이브"
+    },
+    {
+        "question": "하트형",
+        "answer": "롱스트레이트"
+    },
+    {
+        "question": "하트형 직모",
+        "answer": "워터펌"
+    },
+    {
+        "question": "하트형 곱슬머리",
+        "answer": "펌프업웨이브"
+    },
+    {
+        "question": "하트형 반곱슬",
+        "answer": "캐주얼컬"
+    },
+    {
+        "question": "계란형남성",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "계란형남성",
+        "answer": "슬릭백"
+    },
+    {
+        "question": "계란형여성",
+        "answer": "롱레이어드"
+    },
+    {
+        "question": "계란형여성",
+        "answer": "밥컷"
+    },
+    {
+        "question": "긴얼굴형남성",
+        "answer": "픽시컷"
+    },
+    {
+        "question": "긴얼굴형남성",
+        "answer": "투블럭컷"
+    },
+    {
+        "question": "긴얼굴형여성",
+        "answer": "롱웨이브"
+    },
+    {
+        "question": "긴얼굴형여성",
+        "answer": "프린세스컷"
+    },
+    {
+        "question": "긴얼굴형 직모남성",
+        "answer": "투블럭컷"
+    },
+    {
+        "question": "계란형 직모여성",
+        "answer": "롱스트레이트"
+    },
+    {
+        "question": "장발",
+        "answer": "리프펌"
+    },
+    {
+        "question": "장발",
+        "answer": "루즈웨이브"
+    },
+    {
+        "question": "단발",
+        "answer": "밥컷"
+    },
+    {
+        "question": "단발",
+        "answer": "픽시컷"
+    },
+    {
+        "question": "긴얼굴형 장발",
+        "answer": "리프펌"
+    },
+    {
+        "question": "계란형 단발",
+        "answer": "웨이브밥컷"
+    },
+    {
+        "question": "계란형 곱슬머리여성",
+        "answer": "루즈웨이브"
+    },
+    {
+        "question": "긴얼굴형 곱슬머리남성",
+        "answer": "캐주얼웨이브"
+    },
+    {
+        "question": "직모남성",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "직모여성",
+        "answer": "롱스트레이트"
+    },
+    {
+        "question": "계란형남성",
+        "answer": "워터펌"
+    },
+    {
+        "question": "계란형남성 직모",
+        "answer": "애프로컷"
+    },
+    {
+        "question": "계란형여성",
+        "answer": "터스틴레이어드"
+    },
+    {
+        "question": "계란형여성 직모",
+        "answer": "스페이스반"
+    },
+    {
+        "question": "사각형남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "사각형남성 장발",
+        "answer": "스페이스본드"
+    },
+    {
+        "question": "사각형여성",
+        "answer": "티어드레이어드"
+    },
+    {
+        "question": "사각형여성 직모",
+        "answer": "미디움스트레이트"
+    },
+    {
+        "question": "하트형남성",
+        "answer": "스킨페이드"
+    },
+    {
+        "question": "하트형남성 단발",
+        "answer": "버즈컷"
+    },
+    {
+        "question": "하트형여성",
+        "answer": "롱바운스웨이브"
+    },
+    {
+        "question": "하트형여성 장발",
+        "answer": "클래식펌"
+    },
+    {
+        "question": "원형남성",
+        "answer": "아이비리그컷"
+    },
+    {
+        "question": "원형남성 직모",
+        "answer": "펌프업스트레이트"
+    },
+    {
+        "question": "원형여성",
+        "answer": "미디움펌프업컬"
+    },
+    {
+        "question": "원형여성 직모",
+        "answer": "펌프업스트레이트"
+    },
+    {
+        "question": "긴얼굴형남성 단발",
+        "answer": "모하이크"
+    },
+    {
+        "question": "긴얼굴형여성 장발",
+        "answer": "스페이스웨이브"
+    },
+    {
+        "question": "직모남성 단발",
+        "answer": "페이드컷"
+    },
+    {
+        "question": "곱슬머리여성 장발",
+        "answer": "딥컬"
+    },
+    {
+        "question": "계란형남성 곱슬머리",
+        "answer": "텍스쳐펌"
+    },
+    {
+        "question": "계란형여성 반곱슬",
+        "answer": "러프컬"
+    },
+    {
+        "question": "계란형남성 단발",
+        "answer": "코마오버"
+    },
+    {
+        "question": "계란형여성 장발",
+        "answer": "스페이스레이어드"
+    },
+    {
+        "question": "사각형남성 곱슬머리",
+        "answer": "프렌치크롭"
+    },
+    {
+        "question": "사각형여성 직모 단발",
+        "answer": "페더레이어드"
+    },
+    {
+        "question": "사각형남성 반곱슬",
+        "answer": "윈드웨이브"
+    },
+    {
+        "question": "사각형여성 장발",
+        "answer": "드림컬"
+    },
+    {
+        "question": "하트형남성 직모",
+        "answer": "스퀘어댄디"
+    },
+    {
+        "question": "하트형여성 곱슬머리",
+        "answer": "펌프업컬"
+    },
+    {
+        "question": "하트형남성 단발",
+        "answer": "브러시업"
+    },
+    {
+        "question": "하트형여성 장발",
+        "answer": "러프웨이브"
+    },
+    {
+        "question": "원형남성 곱슬머리",
+        "answer": "서퍼컷"
+    },
+    {
+        "question": "원형여성 직모 단발",
+        "answer": "보브컷"
+    },
+    {
+        "question": "원형남성 장발",
+        "answer": "웨이브폼"
+    },
+    {
+        "question": "원형여성 반곱슬",
+        "answer": "로맨틱컬"
+    },
+    {
+        "question": "긴얼굴형남성 반곱슬",
+        "answer": "슬릭웨이브"
+    },
+    {
+        "question": "긴얼굴형여성 직모 단발",
+        "answer": "카렌컷"
+    },
+    {
+        "question": "긴얼굴형남성 곱슬머리",
+        "answer": "브러시다운"
+    },
+    {
+        "question": "긴얼굴형여성 장발",
+        "answer": "터스틴웨이브"
+    },
+    {
+        "question": "직모여성 단발",
+        "answer": "픽시레이어드"
+    },
+    {
+        "question": "반곱슬남성 장발",
+        "answer": "트렌디웨이브"
+    },
+    {
+        "question": "장발 남성",
+        "answer": "맨번"
+    },
+    {
+        "question": "장발 남성",
+        "answer": "헤비레이어드"
+    },
+    {
+        "question": "장발 남성",
+        "answer": "서퍼스타일"
+    },
+    {
+        "question": "장발 남성",
+        "answer": "포니테일"
+    },
+    {
+        "question": "장발 남성",
+        "answer": "브레이드"
+    },
+    {
+        "question": "단발 여성",
+        "answer": "픽시컷"
+    },
+    {
+        "question": "단발 여성",
+        "answer": "보브컷"
+    },
+    {
+        "question": "단발 여성",
+        "answer": "웨이브밥컷"
+    },
+    {
+        "question": "단발 여성",
+        "answer": "프렌치컷"
+    },
+    {
+        "question": "단발 여성",
+        "answer": "터스틴밥컷"
+    },
+    {
+        "question": "단발 여성",
+        "answer": "버즈컷"
+    },
+    {
+        "question": "단발 여성",
+        "answer": "모던보브"
+    },
+    {
+        "question": "긴 웨이브 머리 여성",
+        "answer": "미디움컬"
+    },
+    {
+        "question": "긴 웨이브 머리 여성",
+        "answer": "로맨틱컬"
+    },
+    {
+        "question": "긴 웨이브 머리 여성",
+        "answer": "러프웨이브"
+    },
+    {
+        "question": "긴 웨이브 머리 여성",
+        "answer": "비치웨이브"
+    },
+    {
+        "question": "긴 웨이브 머리 여성",
+        "answer": "볼륨웨이브"
+    },
+    {
+        "question": "긴 웨이브 머리 남성",
+        "answer": "로프웨이브"
+    },
+    {
+        "question": "긴 웨이브 머리 남성",
+        "answer": "서퍼스타일"
+    },
+    {
+        "question": "긴 웨이브 머리 남성",
+        "answer": "러프스타일"
+    },
+    {
+        "question": "긴 웨이브 머리 남성",
+        "answer": "슬릭웨이브"
+    },
+    {
+        "question": "긴 웨이브 머리 남성",
+        "answer": "텍스쳐웨이브"
+    },
+    {
+        "question": "긴 헤어 컷 여성",
+        "answer": "레이어드컷"
+    },
+    {
+        "question": "긴 헤어 컷 여성",
+        "answer": "스트레이트컷"
+    },
+    {
+        "question": "긴 헤어 컷 여성",
+        "answer": "U컷"
+    },
+    {
+        "question": "긴 헤어 컷 여성",
+        "answer": "V컷"
+    },
+    {
+        "question": "긴 헤어 컷 여성",
+        "answer": "프린세스컷"
+    },
+    {
+        "question": "긴 헤어 컷 남성",
+        "answer": "레이어드로프컷"
+    },
+    {
+        "question": "긴 헤어 컷 남성",
+        "answer": "볼륨업컷"
+    },
+    {
+        "question": "긴 헤어 컷 남성",
+        "answer": "스트레이트볼륨컷"
+    },
+    {
+        "question": "긴 헤어 컷 남성",
+        "answer": "텍스쳐볼륨컷"
+    },
+    {
+        "question": "긴 헤어 컷 남성",
+        "answer": "캐주얼웨이브컷"
+    },
+    {
+        "question": "두상이 큰 얼굴 여성",
+        "answer": "숏컷"
+    },
+    {
+        "question": "두상이 큰 얼굴 여성",
+        "answer": "프리다컷"
+    },
+    {
+        "question": "두상이 큰 얼굴 여성",
+        "answer": "허밍컷"
+    },
+    {
+        "question": "두상이 큰 얼굴 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "두상이 큰 얼굴 남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "역삼각형 여성",
+        "answer": "바가지머리"
+    },
+    {
+        "question": "역삼각형 여성",
+        "answer": "보니컷"
+    },
+    {
+        "question": "역삼각형 남성",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "역삼각형 남성",
+        "answer": "리젠트컷"
+    },
+    {
+        "question": "각진 얼굴형사각턱 여성",
+        "answer": "원랭스컷"
+    },
+    {
+        "question": "각진 얼굴형사각턱 여성",
+        "answer": "러플펌"
+    },
+    {
+        "question": "각진 얼굴형사각턱 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "각진 얼굴형사각턱 남성",
+        "answer": "베이비펌"
+    },
+    {
+        "question": "삭발 여성",
+        "answer": "스킨헤드"
+    },
+    {
+        "question": "삭발 여성",
+        "answer": "반삭"
+    },
+    {
+        "question": "삭발 남성",
+        "answer": "스크래치"
+    },
+    {
+        "question": "삭발 남성",
+        "answer": "모히칸 스타일"
+    },
+    {
+        "question": "짧은머리 여성",
+        "answer": "리프컷"
+    },
+    {
+        "question": "짧은머리 여성",
+        "answer": "버드컷"
+    },
+    {
+        "question": "짧은머리 남성",
+        "answer": "사이드컷"
+    },
+    {
+        "question": "짧은머리 남성",
+        "answer": "상고머리"
+    },
+    {
+        "question": "중발 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "중발 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "중발 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "중발 남성",
+        "answer": "볼륨펌"
+    },
+    {
+        "question": "장발 여성",
+        "answer": "구름펌"
+    },
+    {
+        "question": "장발 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "장발 남성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "장발 남성",
+        "answer": "히피펌"
+    },
+    {
+        "question": "두상이 큰 얼굴 여성",
+        "answer": "다이앤펌"
+    },
+    {
+        "question": "두상이 큰 얼굴 여성",
+        "answer": "코튼펌"
+    },
+    {
+        "question": "두상이 큰 얼굴 남성",
+        "answer": "가르마펌"
+    },
+    {
+        "question": "두상이 큰 얼굴 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "역삼각형 여성",
+        "answer": "홀펌"
+    },
+    {
+        "question": "역삼각형 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "역삼각형 남성",
+        "answer": "스시컷"
+    },
+    {
+        "question": "역삼각형 남성",
+        "answer": "하이 앤 타이트"
+    },
+    {
+        "question": "각진 얼굴형사각턱 여성",
+        "answer": "발롱펌"
+    },
+    {
+        "question": "각진 얼굴형사각턱 여성",
+        "answer": "보니펌"
+    },
+    {
+        "question": "각진 얼굴형사각턱 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "각진 얼굴형사각턱 남성",
+        "answer": "웨트펌"
+    },
+    {
+        "question": "삭발 여성",
+        "answer": "스크래치"
+    },
+    {
+        "question": "삭발 여성",
+        "answer": "반삭"
+    },
+    {
+        "question": "삭발 남성",
+        "answer": "스킨헤드"
+    },
+    {
+        "question": "삭발 남성",
+        "answer": "투블럭"
+    },
+    {
+        "question": "짧은머리 여성",
+        "answer": "코튼펌"
+    },
+    {
+        "question": "짧은머리 여성",
+        "answer": "다이앤펌"
+    },
+    {
+        "question": "짧은머리 남성",
+        "answer": "크롭컷"
+    },
+    {
+        "question": "짧은머리 남성",
+        "answer": "투블럭"
+    },
+    {
+        "question": "중발 여성",
+        "answer": "윈드펌"
+    },
+    {
+        "question": "중발 여성",
+        "answer": "타미펌"
+    },
+    {
+        "question": "중발 남성",
+        "answer": "애즈펌"
+    },
+    {
+        "question": "중발 남성",
+        "answer": "시스루펌"
+    },
+    {
+        "question": "장발 여성",
+        "answer": "레아펌"
+    },
+    {
+        "question": "장발 여성",
+        "answer": "미스티펌"
+    },
+    {
+        "question": "장발 남성",
+        "answer": "그런지펌"
+    },
+    {
+        "question": "장발 남성",
+        "answer": "울프컷"
+    },
+    {
+        "question": "묶음 머리 여성",
+        "answer": "페미닌펌"
+    },
+    {
+        "question": "묶음 머리 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "묶음 머리 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "묶음 머리 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "전통머리 여성",
+        "answer": "타미펌"
+    },
+    {
+        "question": "전통머리 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "전통머리 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "전통머리 남성",
+        "answer": "댄디펌"
+    },
+    {
+        "question": "펌 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "펌 여성",
+        "answer": "구름펌"
+    },
+    {
+        "question": "펌 남성",
+        "answer": "베이비펌"
+    },
+    {
+        "question": "펌 남성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "올림 머리 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "올림 머리 여성",
+        "answer": "미스티펌"
+    },
+    {
+        "question": "올림 머리 남성",
+        "answer": "그런지펌"
+    },
+    {
+        "question": "올림 머리 남성",
+        "answer": "볼륨펌"
+    },
+    {
+        "question": "땋은 머리 여성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "땋은 머리 여성",
+        "answer": "홀펌"
+    },
+    {
+        "question": "땋은 머리 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "땋은 머리 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "앞머리 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "앞머리 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "앞머리 남성",
+        "answer": "댄디펌"
+    },
+    {
+        "question": "앞머리 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "대머리 여성",
+        "answer": "스크래치"
+    },
+    {
+        "question": "대머리 여성",
+        "answer": "반삭"
+    },
+    {
+        "question": "대머리 남성",
+        "answer": "스킨헤드"
+    },
+    {
+        "question": "묶음 머리 여성",
+        "answer": "러플펌"
+    },
+    {
+        "question": "묶음 머리 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "묶음 머리 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "묶음 머리 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "전통머리 여성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "전통머리 여성",
+        "answer": "벌룬펌"
+    },
+    {
+        "question": "전통머리 남성",
+        "answer": "리프컷"
+    },
+    {
+        "question": "전통머리 남성",
+        "answer": "더 브래트컷"
+    },
+    {
+        "question": "펌 여성",
+        "answer": "히피펌"
+    },
+    {
+        "question": "펌 여성",
+        "answer": "미스티펌"
+    },
+    {
+        "question": "펌 남성",
+        "answer": "리젠트컷"
+    },
+    {
+        "question": "펌 남성",
+        "answer": "샌드컷"
+    },
+    {
+        "question": "올림 머리 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "올림 머리 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "올림 머리 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "올림 머리 남성",
+        "answer": "쉐도우펌"
+    },
+    {
+        "question": "땋은 머리 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "땋은 머리 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "땋은 머리 남성",
+        "answer": "볼륨펌"
+    },
+    {
+        "question": "땋은 머리 남성",
+        "answer": "웨트펌"
+    },
+    {
+        "question": "앞머리 여성",
+        "answer": "엘리자벳펌"
+    },
+    {
+        "question": "앞머리 여성",
+        "answer": "레아펌"
+    },
+    {
+        "question": "앞머리 남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "앞머리 남성",
+        "answer": "더벅머리"
+    },
+    {
+        "question": "반묶음 머리 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "반묶음 머리 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "반묶음 머리 남성",
+        "answer": "볼륨펌"
+    },
+    {
+        "question": "반묶음 머리 남성",
+        "answer": "웨트펌"
+    },
+    {
+        "question": "웨이브 머리 여성",
+        "answer": "미스티펌"
+    },
+    {
+        "question": "웨이브 머리 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "웨이브 머리 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "웨이브 머리 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "컬리헤어 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "컬리헤어 여성",
+        "answer": "엘리자벳펌"
+    },
+    {
+        "question": "컬리헤어 남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "컬리헤어 남성",
+        "answer": "쉐도우펌"
+    },
+    {
+        "question": "스트레이트 헤어 여성",
+        "answer": "레아펌"
+    },
+    {
+        "question": "스트레이트 헤어 여성",
+        "answer": "그런지펌"
+    },
+    {
+        "question": "스트레이트 헤어 남성",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "스트레이트 헤어 남성",
+        "answer": "리프컷"
+    },
+    {
+        "question": "볼륨업 머리 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "볼륨업 머리 여성",
+        "answer": "히피펌"
+    },
+    {
+        "question": "볼륨업 머리 남성",
+        "answer": "가르마펌"
+    },
+    {
+        "question": "볼륨업 머리 남성",
+        "answer": "애즈펌"
+    },
+    {
+        "question": "사이드 파트 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "사이드 파트 여성",
+        "answer": "러플펌"
+    },
+    {
+        "question": "사이드 파트 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "사이드 파트 남성",
+        "answer": "다운펌"
+    },
+    {
+        "question": "삼각턱 여성",
+        "answer": "허밍컷"
+    },
+    {
+        "question": "삼각턱 여성",
+        "answer": "태슬컷"
+    },
+    {
+        "question": "삼각턱 남성",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "삼각턱 남성",
+        "answer": "리젠트컷"
+    },
+    {
+        "question": "얇은 머리 여성",
+        "answer": "버드컷"
+    },
+    {
+        "question": "얇은 머리 여성",
+        "answer": "다이앤펌"
+    },
+    {
+        "question": "얇은 머리 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "얇은 머리 남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "두툼한 머리 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "두툼한 머리 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "두툼한 머리 남성",
+        "answer": "볼륨펌"
+    },
+    {
+        "question": "두툼한 머리 남성",
+        "answer": "애즈펌"
+    },
+    {
+        "question": "포니테일 여성",
+        "answer": "윈드펌"
+    },
+    {
+        "question": "포니테일 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "포니테일 남성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "포니테일 남성",
+        "answer": "가르마펌"
+    },
+    {
+        "question": "반올림머리 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "반올림머리 여성",
+        "answer": "미스티펌"
+    },
+    {
+        "question": "반올림머리 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "반올림머리 남성",
+        "answer": "다운펌"
+    },
+    {
+        "question": "빗질 스타일 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "빗질 스타일 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "빗질 스타일 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "빗질 스타일 남성",
+        "answer": "볼륨펌"
+    },
+    {
+        "question": "묶음 머리 여성",
+        "answer": "그런지펌"
+    },
+    {
+        "question": "묶음 머리 여성",
+        "answer": "젤리펌"
+    },
+    {
+        "question": "묶음 머리 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "묶음 머리 남성",
+        "answer": "시스루펌"
+    },
+    {
+        "question": "전통머리 여성",
+        "answer": "엘리자벳펌"
+    },
+    {
+        "question": "전통머리 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "전통머리 남성",
+        "answer": "웨트펌"
+    },
+    {
+        "question": "전통머리 남성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "펌 여성",
+        "answer": "레아펌"
+    },
+    {
+        "question": "펌 여성",
+        "answer": "레인펌"
+    },
+    {
+        "question": "펌 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "펌 남성",
+        "answer": "애즈펌"
+    },
+    {
+        "question": "올림 머리 여성",
+        "answer": "히피펌"
+    },
+    {
+        "question": "올림 머리 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "올림 머리 남성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "올림 머리 남성",
+        "answer": "그런지펌"
+    },
+    {
+        "question": "땋은 머리 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "땋은 머리 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "땋은 머리 남성",
+        "answer": "쉐도우펌"
+    },
+    {
+        "question": "땋은 머리 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "앞머리 여성",
+        "answer": "젤리펌"
+    },
+    {
+        "question": "앞머리 여성",
+        "answer": "페미닌펌"
+    },
+    {
+        "question": "앞머리 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "앞머리 남성",
+        "answer": "베이비펌"
+    },
+    {
+        "question": "스포티 머리 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "스포티 머리 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "스포티 머리 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "스포티 머리 남성",
+        "answer": "웨트펌"
+    },
+    {
+        "question": "시크한 머리 여성",
+        "answer": "코튼펌"
+    },
+    {
+        "question": "시크한 머리 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "시크한 머리 남성",
+        "answer": "시스루펌"
+    },
+    {
+        "question": "시크한 머리 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "사무실 스타일 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "사무실 스타일 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "사무실 스타일 남성",
+        "answer": "다운펌"
+    },
+    {
+        "question": "사무실 스타일 남성",
+        "answer": "베이비펌"
+    },
+    {
+        "question": "캐주얼 스타일 여성",
+        "answer": "허밍컷"
+    },
+    {
+        "question": "캐주얼 스타일 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "캐주얼 스타일 남성",
+        "answer": "투블럭"
+    },
+    {
+        "question": "캐주얼 스타일 남성",
+        "answer": "스시컷"
+    },
+    {
+        "question": "댄스용 스타일 여성",
+        "answer": "젤리펌"
+    },
+    {
+        "question": "댄스용 스타일 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "댄스용 스타일 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "댄스용 스타일 남성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "여름에 적합한 머리 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "여름에 적합한 머리 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "여름에 적합한 머리 남성",
+        "answer": "스시컷"
+    },
+    {
+        "question": "여름에 적합한 머리 남성",
+        "answer": "하이 앤 타이트"
+    },
+    {
+        "question": "겨울에 적합한 머리 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "겨울에 적합한 머리 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "겨울에 적합한 머리 남성",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "겨울에 적합한 머리 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "비즈니스 룩 여성",
+        "answer": "버드컷"
+    },
+    {
+        "question": "비즈니스 룩 여성",
+        "answer": "레아펌"
+    },
+    {
+        "question": "비즈니스 룩 남성",
+        "answer": "리젠트컷"
+    },
+    {
+        "question": "비즈니스 룩 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "데이트용 스타일 여성",
+        "answer": "레인펌"
+    },
+    {
+        "question": "데이트용 스타일 여성",
+        "answer": "페미닌펌"
+    },
+    {
+        "question": "데이트용 스타일 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "데이트용 스타일 남성",
+        "answer": "다운펌"
+    },
+    {
+        "question": "페스티벌용 스타일 여성",
+        "answer": "젤리펌"
+    },
+    {
+        "question": "페스티벌용 스타일 여성",
+        "answer": "히피펌"
+    },
+    {
+        "question": "페스티벌용 스타일 남성",
+        "answer": "모히칸 스타일"
+    },
+    {
+        "question": "페스티벌용 스타일 남성",
+        "answer": "사이드컷"
+    },
+    {
+        "question": "액티브 라이프스타일 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "액티브 라이프스타일 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "액티브 라이프스타일 남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "액티브 라이프스타일 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "정장 스타일 여성",
+        "answer": "버드컷"
+    },
+    {
+        "question": "정장 스타일 여성",
+        "answer": "원랭스컷"
+    },
+    {
+        "question": "정장 스타일 남성",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "정장 스타일 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "휴가용 스타일 여성",
+        "answer": "젤리펌"
+    },
+    {
+        "question": "휴가용 스타일 여성",
+        "answer": "히피펌"
+    },
+    {
+        "question": "휴가용 스타일 남성",
+        "answer": "하이 앤 타이트"
+    },
+    {
+        "question": "휴가용 스타일 남성",
+        "answer": "스시컷"
+    },
+    {
+        "question": "프로포즈 스타일 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "프로포즈 스타일 여성",
+        "answer": "미스티펌"
+    },
+    {
+        "question": "프로포즈 스타일 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "프로포즈 스타일 남성",
+        "answer": "댄디펌"
+    },
+    {
+        "question": "데일리 스타일 여성",
+        "answer": "바가지머리"
+    },
+    {
+        "question": "데일리 스타일 여성",
+        "answer": "샤기컷"
+    },
+    {
+        "question": "데일리 스타일 남성",
+        "answer": "가르마펌"
+    },
+    {
+        "question": "데일리 스타일 남성",
+        "answer": "쉼표머리"
+    },
+    {
+        "question": "봄 시즌 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "봄 시즌 여성",
+        "answer": "버드컷"
+    },
+    {
+        "question": "봄 시즌 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "봄 시즌 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "여름 시즌 여성",
+        "answer": "그런지펌"
+    },
+    {
+        "question": "여름 시즌 여성",
+        "answer": "원랭스컷"
+    },
+    {
+        "question": "여름 시즌 남성",
+        "answer": "쉼표머리"
+    },
+    {
+        "question": "여름 시즌 남성",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "가을 시즌 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "가을 시즌 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "가을 시즌 남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "가을 시즌 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "겨울 시즌 여성",
+        "answer": "보니펌"
+    },
+    {
+        "question": "겨울 시즌 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "겨울 시즌 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "겨울 시즌 남성",
+        "answer": "스시컷"
+    },
+    {
+        "question": "파티룩 여성",
+        "answer": "히피펌"
+    },
+    {
+        "question": "파티룩 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "파티룩 남성",
+        "answer": "스크래치"
+    },
+    {
+        "question": "파티룩 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "휴식 시간 여성",
+        "answer": "허쉬컷"
+    },
+    {
+        "question": "휴식 시간 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "휴식 시간 남성",
+        "answer": "가르마펌"
+    },
+    {
+        "question": "휴식 시간 남성",
+        "answer": "스시컷"
+    },
+    {
+        "question": "운동 시간 여성",
+        "answer": "바가지머리"
+    },
+    {
+        "question": "운동 시간 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "운동 시간 남성",
+        "answer": "투블럭"
+    },
+    {
+        "question": "운동 시간 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "출근룩 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "출근룩 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "출근룩 남성",
+        "answer": "다운펌"
+    },
+    {
+        "question": "출근룩 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "데이트룩 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "데이트룩 여성",
+        "answer": "페미닌펌"
+    },
+    {
+        "question": "데이트룩 남성",
+        "answer": "애즈펌"
+    },
+    {
+        "question": "데이트룩 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "비즈니스룩 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "비즈니스룩 여성",
+        "answer": "보니펌"
+    },
+    {
+        "question": "비즈니스룩 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "비즈니스룩 남성",
+        "answer": "리젠트컷"
+    },
+    {
+        "question": "친구와의 만남 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "친구와의 만남 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "친구와의 만남 남성",
+        "answer": "다운펌"
+    },
+    {
+        "question": "친구와의 만남 남성",
+        "answer": "댄디펌"
+    },
+    {
+        "question": "휴가 여성",
+        "answer": "그런지펌"
+    },
+    {
+        "question": "휴가 여성",
+        "answer": "페미닌펌"
+    },
+    {
+        "question": "휴가 남성",
+        "answer": "스크래치"
+    },
+    {
+        "question": "휴가 남성",
+        "answer": "모히칸 스타일"
+    },
+    {
+        "question": "바다 여행 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "바다 여행 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "바다 여행 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "바다 여행 남성",
+        "answer": "쉼표머리"
+    },
+    {
+        "question": "산 여행 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "산 여행 여성",
+        "answer": "보니펌"
+    },
+    {
+        "question": "산 여행 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "산 여행 남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "파티룩 여성",
+        "answer": "미스티펌"
+    },
+    {
+        "question": "파티룩 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "파티룩 남성",
+        "answer": "볼륨펌"
+    },
+    {
+        "question": "파티룩 남성",
+        "answer": "투블럭"
+    },
+    {
+        "question": "운동룩 여성",
+        "answer": "벌룬펌"
+    },
+    {
+        "question": "운동룩 여성",
+        "answer": "타미펌"
+    },
+    {
+        "question": "운동룩 남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "운동룩 남성",
+        "answer": "하이 앤 타이트"
+    },
+    {
+        "question": "가을룩 여성",
+        "answer": "미스티펌"
+    },
+    {
+        "question": "가을룩 여성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "가을룩 남성",
+        "answer": "다운펌"
+    },
+    {
+        "question": "가을룩 남성",
+        "answer": "가르마펌"
+    },
+    {
+        "question": "겨울룩 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "겨울룩 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "겨울룩 남성",
+        "answer": "리젠트펌"
+    },
+    {
+        "question": "겨울룩 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "봄날의 나들이 여성",
+        "answer": "프릴펌"
+    },
+    {
+        "question": "봄날의 나들이 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "봄날의 나들이 남성",
+        "answer": "댄디펌"
+    },
+    {
+        "question": "봄날의 나들이 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "여름 바캉스 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "여름 바캉스 여성",
+        "answer": "그런지펌"
+    },
+    {
+        "question": "여름 바캉스 남성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "여름 바캉스 남성",
+        "answer": "사이드컷"
+    },
+    {
+        "question": "웨딩룩 여성",
+        "answer": "페미닌펌"
+    },
+    {
+        "question": "웨딩룩 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "웨딩룩 남성",
+        "answer": "포마드펌"
+    },
+    {
+        "question": "웨딩룩 남성",
+        "answer": "리젠트컷"
+    },
+    {
+        "question": "오피스룩 여성",
+        "answer": "보니펌"
+    },
+    {
+        "question": "오피스룩 여성",
+        "answer": "바가지머리"
+    },
+    {
+        "question": "오피스룩 남성",
+        "answer": "리젠트컷"
+    },
+    {
+        "question": "오피스룩 남성",
+        "answer": "댄디펌"
+    },
+    {
+        "question": "데이트룩 여성",
+        "answer": "레아펌"
+    },
+    {
+        "question": "데이트룩 여성",
+        "answer": "타미펌"
+    },
+    {
+        "question": "데이트룩 남성",
+        "answer": "가르마펌"
+    },
+    {
+        "question": "데이트룩 남성",
+        "answer": "웨트펌"
+    },
+    {
+        "question": "대학생룩 여성",
+        "answer": "원랭스컷태슬컷"
+    },
+    {
+        "question": "대학생룩 여성",
+        "answer": "바그펌"
+    },
+    {
+        "question": "대학생룩 남성",
+        "answer": "스시컷"
+    },
+    {
+        "question": "대학생룩 남성",
+        "answer": "볼륨펌"
+    },
+    {
+        "question": "휴일의 캐주얼룩 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "휴일의 캐주얼룩 여성",
+        "answer": "히피펌"
+    },
+    {
+        "question": "휴일의 캐주얼룩 남성",
+        "answer": "스왓컷"
+    },
+    {
+        "question": "휴일의 캐주얼룩 남성",
+        "answer": "쉐도우펌"
+    },
+    {
+        "question": "패션쇼룩 여성",
+        "answer": "그레이스펌"
+    },
+    {
+        "question": "패션쇼룩 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "패션쇼룩 남성",
+        "answer": "리프펌"
+    },
+    {
+        "question": "패션쇼룩 남성",
+        "answer": "댄디컷"
+    },
+    {
+        "question": "바다여행 여성",
+        "answer": "젤리펌"
+    },
+    {
+        "question": "바다여행 여성",
+        "answer": "에어펌"
+    },
+    {
+        "question": "바다여행 남성",
+        "answer": "사이드컷"
+    },
+    {
+        "question": "바다여행 남성",
+        "answer": "스핀스왈로펌"
+    },
+    {
+        "question": "산책 여성",
+        "answer": "빌드펌"
+    },
+    {
+        "question": "산책 여성",
+        "answer": "레이스펌"
+    },
+    {
+        "question": "산책 남성",
+        "answer": "크루컷"
+    },
+    {
+        "question": "산책 남성",
+        "answer": "가르마펌"
+    }
+]
