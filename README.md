@@ -9,6 +9,8 @@ ChatGPT, Copilot 등 오픈 AI들은 어느 한 분야에 특화된 AI가 모든
 
 Python 라이브러리인 Transformers를 사용하여 학습시켰고 Colab의 GPU를 사용하여 학습시켰습니다 <br><br>
 
+<h1>📌 Implementation</h1><br>
+
 myutil 디렉토리 call_ai_api.py 파일의 AI_URL 부분의 자신의 로컬 ip로 입력하셔야 합니다 <br>
 마찬가지로 main2.py 파일의 라우팅 호스트 ip를 자신의 로컬 ip로 입력하셔야합니다
 
@@ -16,8 +18,6 @@ call_ai_api.py:14 ```AI_URL = "http://[localhostip]:9999/api/get_data"```<br>
 main2.py:147 ```app.run(host='[localhostip]', port=9999, debug=False)```
 
 데이터셋은 인터넷 검색 및 크롤링 AI모델 사용 하여 구축하였습니다
-
-<h1>📌 Implementation</h1><br>
 
 ![image](https://github.com/TEEPUT/AIChatBot/assets/129711481/79d1a052-4e38-4916-9abc-53edced17fb2)
 
