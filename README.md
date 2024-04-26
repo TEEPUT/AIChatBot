@@ -50,7 +50,7 @@ python main2.py로 백엔드를 실행시킵니다<br>
 
 <br>
 
-<h3>필요 nodejs 라이브러리</h3>
+<h3>필요 python 라이브러리</h3>
 
 >pip install flask <br>
 >python -m pip install selenium 크롤링 라이브러리<br>
