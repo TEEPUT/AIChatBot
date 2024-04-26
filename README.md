@@ -21,7 +21,6 @@ main2.py:147 ```app.run(host='[localhostip]', port=9999, debug=False)```
 
 ![image](https://github.com/TEEPUT/AIChatBot/assets/129711481/79d1a052-4e38-4916-9abc-53edced17fb2)
 
-
 npm start 로 nodejs 프론트엔드를 실행시키고<br>
 python main2.py로 백엔드를 실행시킵니다<br>
 백엔드와 프론트엔드를 실행시키고 http://localhost:5555/ 에서 동작하는 서비스를 볼 수 있습니다 <br>
@@ -58,6 +57,7 @@ python main2.py로 백엔드를 실행시킵니다<br>
 >pip install transformers <br>
 
 <br>
+
 ![image](https://github.com/TEEPUT/AIChatBot/assets/129711481/fd9a9b98-bbe2-4a9e-a6f7-6d74f8b58a2a)
 초기 화면입니다 채팅 형식으로 자신이 원하는 prompt 를 입력하시면 됩니다 ex) "오피스 헤어 추천해줘"<br><br>
 
