@@ -25,7 +25,39 @@ main2.py:147 ```app.run(host='[localhostip]', port=9999, debug=False)```
 npm start 로 nodejs 프론트엔드를 실행시키고<br>
 python main2.py로 백엔드를 실행시킵니다<br>
 백엔드와 프론트엔드를 실행시키고 http://localhost:5555/ 에서 동작하는 서비스를 볼 수 있습니다 <br>
- 
+
+<h3>필요 nodejs 라이브러리</h3>
+
+>npm install express --save <br>
+>npm install express-generator -g --save <br>
+>npm install fs --save <br>
+>npm install mysql --save <br>
+>npm install path --save <br>
+>npm install body-parser --save <br>
+>npm i dotenv <br>
+>npm i cors <br>
+>npm i nodemon <br>
+>npm install mobile-detect <br>
+>npm install request --save <br>
+>npm install jquery <br>
+>npm install request-ip --save <br>
+>npm install jsonwebtoken --save <br>
+>npm install cookie-parser --save <br>
+>npm install moment --save <br>
+>npm install winston --save <br>
+>npm install winston-daily-rotate-file --save <br>
+>npm install ip --save <br>
+
+<br>
+
+<h3>필요 nodejs 라이브러리</h3>
+
+>pip install flask <br>
+>python -m pip install selenium 크롤링 라이브러리<br>
+>python -m pip install torch torchvision torchaudio 파이토치 딥러닝 라이브러리<br>
+>pip install transformers <br>
+
+<br>
 ![image](https://github.com/TEEPUT/AIChatBot/assets/129711481/fd9a9b98-bbe2-4a9e-a6f7-6d74f8b58a2a)
 초기 화면입니다 채팅 형식으로 자신이 원하는 prompt 를 입력하시면 됩니다 ex) "오피스 헤어 추천해줘"<br><br>
 
